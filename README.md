@@ -1,6 +1,6 @@
 # AmritaSpaceBack
 
-AmritaSpaceBack is a backend application for the AmritaSpace project, aimed at providing APIs for managing space-related data. It utilizes MongoDB as the database system for storing and retrieving data.
+AmritaSpaceBack is a backend resource for the AmritaSpace project, aimed at providing APIs for managing space-related data. It utilizes MongoDB as the database system for storing and retrieving data.
 
 ## Table of Contents
 
