@@ -47,11 +47,21 @@ To run AmritaSpaceBack locally, follow these steps:
 
 4. Set up environment variables:
 
-Create a .env file in the root directory and configure the following variables:
+   Create a .env file in the root directory and configure the following variables:
+
+      ```bash
+     
+      PORT=3000
+      MONGODB_URI=your_mongodb_uri
+      JWT_SECRET=your_jwt_secret
+
+5. Start the server:
 
    ```bash
-  
-   PORT=3000
-   MONGODB_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
+
+   npm start
+
+
+
+
 
