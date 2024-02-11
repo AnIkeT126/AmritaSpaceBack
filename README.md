@@ -12,7 +12,7 @@ AmritaSpaceBack is a backend application for the AmritaSpace project, aimed at p
 6. [Database](#database)
 7. [Contributing](#contributing)
 8. [License](#license)
-9. [Contact Us](#Contact)
+9. [Contact Us](#Contact-Us)
 
 ## Introduction
 
