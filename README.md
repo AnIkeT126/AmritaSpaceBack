@@ -32,3 +32,26 @@ To run AmritaSpaceBack locally, follow these steps:
 
    ```bash
    git clone https://github.com/AnIkeT126/AmritaSpaceBack.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd AmritaSpaceBack
+
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+
+
+4. Set up environment variables:
+
+Create a .env file in the root directory and configure the following variables:
+
+   ```bash
+  
+   PORT=3000
+   MONGODB_URI=your_mongodb_uri
+   JWT_SECRET=your_jwt_secret
+
