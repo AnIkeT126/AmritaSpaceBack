@@ -38,12 +38,10 @@ To run AmritaSpaceBack locally, follow these steps:
    ```bash
    cd AmritaSpaceBack
 
-
 3. Install dependencies:
 
    ```bash
    npm install
-
 
 4. Set up environment variables:
 
