@@ -12,6 +12,7 @@ AmritaSpaceBack is a backend application for the AmritaSpace project, aimed at p
 6. [Database](#database)
 7. [Contributing](#contributing)
 8. [License](#license)
+9. [Contact Us](#Contact)
 
 ## Introduction
 
@@ -72,11 +73,10 @@ Contributions are welcome! Please follow the Contribution Guidelines before subm
 ## License
 This project is licensed under the MIT License.
 
-   ```bash
-   You can copy this entire block and paste it into your README.md file in your GitHub repository. Let me know if you need further assistance!
-
-
-## Contact us
+      ```bash
+      You can copy this entire block and paste it into your README.md file in your GitHub repository. Let me know if you need further assistance!
+   
+## Contact
 Drop your suggestions at
 
   ```bash
