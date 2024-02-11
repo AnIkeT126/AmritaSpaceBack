@@ -50,7 +50,6 @@ To run AmritaSpaceBack locally, follow these steps:
    Create a .env file in the root directory and configure the following variables:
 
       ```bash
-     
       PORT=3000
       MONGODB_URI=your_mongodb_uri
       JWT_SECRET=your_jwt_secret
@@ -58,10 +57,22 @@ To run AmritaSpaceBack locally, follow these steps:
 5. Start the server:
 
    ```bash
-
    npm start
 
+## Usage
+Once the server is up and running, you can access the API endpoints using tools like Postman or integrate them into your frontend application.
 
+## API Reference
+The API documentation is available here.
 
+## Database
+AmritaSpaceBack utilizes MongoDB as the database system for storing and retrieving data. MongoDB is a NoSQL document-oriented database that provides scalability and flexibility for handling large volumes of data. It offers features such as high availability, horizontal scaling, and flexible data modeling, making it suitable for diverse applications, including those in the space industry.
 
+## Contributing
+Contributions are welcome! Please follow the Contribution Guidelines before submitting pull requests.
 
+## License
+This project is licensed under the MIT License.
+
+   ```bash
+   You can copy this entire block and paste it into your README.md file in your GitHub repository. Let me know if you need further assistance!
